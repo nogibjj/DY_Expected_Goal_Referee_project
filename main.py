@@ -1,3 +1,4 @@
 from statsbombpy import sb
 
-sb.competitions()
+compet = sb.competitions()
+compet.head()
