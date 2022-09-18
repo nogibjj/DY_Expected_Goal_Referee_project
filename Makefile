@@ -3,7 +3,7 @@ install:
 		pip install -r requirements.txt
 
 test:
-	python -m pytest -vv test_*.py
+	python -m pytest -vv *.py
 
 format:	
 	black *.py dblib/*py
