@@ -30,7 +30,7 @@ This project would like to know how good the Expected Goals can be to predict th
 
 ### Limitations and future improvements
 
-1. Failed to pip data from StatsBomb API to Databricks
+1. Failed to pip data from StatsBomb API to Azure Databricks
 1. Command line tool integration after list 1 is resolved
 
 
