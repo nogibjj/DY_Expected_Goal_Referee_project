@@ -3,7 +3,7 @@
 
 
 ## A repo of accessing FREE soccer open data set via Statsbomb
-![SB - Icon Lockup - Colour positive](https://user-images.githubusercontent.com/81750079/190938168-745a6fa0-321c-4952-af9a-1975cbffe3a1.png| width=100)
+![SB - Icon Lockup - Colour positive](https://user-images.githubusercontent.com/81750079/190938168-745a6fa0-321c-4952-af9a-1975cbffe3a1.png | width=100)
 
 ## Project Data Import Diagram
 
