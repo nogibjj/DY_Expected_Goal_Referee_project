@@ -30,9 +30,11 @@ This project would like to know how good the Expected Goals can be to predict th
 
 ### Limitations and future improvements
 
-1. Failed to pip data from StatsBomb API to Azure Databricks
-1. Instead of using Databricks, trying AWS s3
-1. Command line tool integration after list 1 or 2 is resolved
+1. **[SOLVED]** Failed to pip data from StatsBomb API to Azure Databricks
+1. ~~Instead of using Databricks, trying AWS s3~~
+1. [List 1 SOLVED]Command line tool integration after list 1 or 2 is resolved
+1. Build better FastAPI structure
+1. Add more function on FastAPI
 
 
 ## Data Source
