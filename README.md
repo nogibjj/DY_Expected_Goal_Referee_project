@@ -10,7 +10,7 @@ Trying to analyze the difference between Expected Goal and actual final score of
 
 ## Project Data Import Diagram
 
-![Expected Goal Project Diagram](https://user-images.githubusercontent.com/81750079/190938809-5bf2dc78-d917-4b43-87a5-7f3bed2727e0.jpg)
+![Expected Goal Project Diagram](https://user-images.githubusercontent.com/81750079/191083223-493f4db5-0186-46c2-a18b-f40191625e57.jpg)
 
 
 ### Expected Goal
