@@ -17,6 +17,13 @@ Trying to analyze the difference between Expected Goal and actual final score of
 <img width="1110" alt="image" src="https://user-images.githubusercontent.com/81750079/190937944-e00b91b8-898d-47e9-800e-95c5ebbf3a77.png">
 
 
+### Examples
+
+#### For Euro 2020, the final is between Italy and England.
+Italy won the title on penalties 4:3 (1:1), and the Expected Goal for Italy is higher than England's, which is consistent.
+However, in many games, there could be an inconsistency between Expected Goals and Actual Final scores.
+This project would like to know how good the Expected Goals can be to predict the winner of a soccer match using Euro 2020 competition data (and more in the future).
+
 ## Data Source
 
 ### [StatsBomb](https://statsbomb.com/)
