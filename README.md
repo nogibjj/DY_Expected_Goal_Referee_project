@@ -4,6 +4,9 @@
 
 ## A repo of accessing FREE soccer open data set via Statsbomb
 
+### Goal of this project
+Trying to analyze the difference between Expected Goal and actual final score of matches in real life 
+
 ![SB - Icon Lockup - Colour positive](https://user-images.githubusercontent.com/81750079/190938168-745a6fa0-321c-4952-af9a-1975cbffe3a1.png)
 
 ## Project Data Import Diagram
