@@ -8,7 +8,7 @@
 
 ## Project Data Import Diagram
 
-![Diagram](https://user-images.githubusercontent.com/81750079/190938691-b928038f-6085-4639-948e-cd16f38864f7.png)
+![Expected Goal Project Diagram](https://user-images.githubusercontent.com/81750079/190938762-483fc363-7e3c-4e99-a3b8-2e2e937c90c8.png)
 
 
 ### Expected Goal
