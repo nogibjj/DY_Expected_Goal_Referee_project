@@ -13,7 +13,7 @@ def cli():
 @cli.command()
 @click.option(
     "--query",
-    default="SELECT * FROM default.events_all LIMIT 2",
+    default="SELECT * FROM event LIMIT 20",
     help="SQL query to execute",
 )
 def cli_query(query):
@@ -23,5 +23,4 @@ def cli_query(query):
 
 # run the CLI
 if __name__ == "__main__":
-    
     cli()
