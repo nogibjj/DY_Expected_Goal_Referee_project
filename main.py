@@ -29,13 +29,10 @@ def ExG_Goal():
     for i in Goal_England:
         if i == 'Goal':
             England_Goal +=1
-            pass
-        pass
     for j in Goal_Italy:
         if j == 'Goal':
             Italy_Goal +=1
-            pass
-        pass
+
 
     return f"Italy's Expected Goal is {ExG_Italy:.2f}, and England's Expected Goal is {ExG_England:.2f}; the final socre is {Italy_Goal} : {England_Goal}"
 
