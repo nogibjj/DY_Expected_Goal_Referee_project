@@ -27,6 +27,13 @@ Italy won the title on penalties 4:3 (1:1), and the Expected Goal for Italy is h
 However, in many games, there could be an inconsistency between Expected Goals and Actual Final scores.
 This project would like to know how good the Expected Goals can be to predict the winner of a soccer match using Euro 2020 competition data (and more in the future).
 
+
+### Limitations and future improvements
+
+1. Failed to pip data from StatsBomb API to Databricks
+1. Command line tool integration after list 1 is resolved
+
+
 ## Data Source
 
 ### [StatsBomb](https://statsbomb.com/)
