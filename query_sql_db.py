@@ -11,16 +11,23 @@ def cli():
 
 # build a click command
 @cli.command()
+# @click.option(
+#     "--query", '-q',
+#     default="SELECT * FROM matches_55_43_csv LIMIT 20",
+#     help="SQL query to execute",
+# )
+
 @click.option(
-    "--query",
-    default="SELECT * FROM event LIMIT 20",
-    help="SQL query to execute",
+    "--referee", '-e',
+    default="SELECT _c17 FROM matches_55_43_csv",
+    help="referee of the match",
 )
-def cli_query(query):
+
+def cli_query(referee):
     """Execute a SQL query"""
-    querydb(query)
+    querydb(referee)
 
 
 # run the CLI
 if __name__ == "__main__":
-    cli()
+    cli_query()
