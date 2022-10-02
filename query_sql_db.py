@@ -19,7 +19,10 @@ def cli():
 
 @click.option(
     "--referee", '-e',
-    default="SELECT _c17 FROM matches_55_43_csv",
+    # default="""SELECT SUBSTRING_INDEX(_c17, "'", 15) FROM matches_55_43_csv""",
+    default="""
+            SELECT _c17 FROM matches_55_43_csv
+            """,
     help="referee of the match",
 )
 
