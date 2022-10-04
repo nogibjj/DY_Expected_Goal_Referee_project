@@ -1,4 +1,4 @@
-# Expected Goal_project
+# Expected Goal_Referee_project
 [![Python application test with Github Actions using devcontainers](https://github.com/nogibjj/DY_databricks_project_1/actions/workflows/main.yml/badge.svg)](https://github.com/nogibjj/DY_databricks_project_1/actions/workflows/main.yml)
 
 
@@ -12,6 +12,9 @@ Trying to analyze the difference between Expected Goal and actual final score of
 
 ![Expected Goal Project Diagram](https://user-images.githubusercontent.com/81750079/191083640-8796dfe5-de82-4d4f-8966-5e2dd34ded1b.jpg)
 
+
+### Referees of Euro 2020
+https://en.wikipedia.org/wiki/Category:UEFA_Euro_2020_referees
 
 ### Expected Goal
 <img width="1110" alt="image" src="https://user-images.githubusercontent.com/81750079/190937944-e00b91b8-898d-47e9-800e-95c5ebbf3a77.png">
