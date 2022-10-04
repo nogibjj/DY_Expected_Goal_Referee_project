@@ -13,7 +13,7 @@ def cli():
 @cli.command()
 # @click.option(
 #     "--query", '-q',
-#     default="SELECT * FROM matches_55_43_csv LIMIT 20",
+#     default="SELECT * FROM events LIMIT 20",
 #     help="SQL query to execute",
 # )
 
