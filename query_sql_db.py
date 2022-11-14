@@ -21,7 +21,7 @@ def cli():
     "--referee", '-e',
     # default="""SELECT SUBSTRING_INDEX(_c17, "'", 15) FROM matches_55_43_csv""",
     default="""
-            SELECT _c17 FROM matches_55_43_csv
+            SELECT referee FROM matches_55_43
             """,
     help="referee of the match",
 )
@@ -33,4 +33,5 @@ def cli_query(referee):
 
 # run the CLI
 if __name__ == "__main__":
-    cli_query()
+    cli()
+    

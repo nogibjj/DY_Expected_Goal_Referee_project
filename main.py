@@ -3,7 +3,7 @@ from statsbombpy import sb
 
 def ExG_Goal():
     # Read in data
-    compet = sb.competitions()
+    # compet = sb.competitions()
 
     # Choose which competition to analyze; here for example, UEFA Euro 2020
     sb.matches(competition_id=55, season_id=43)
